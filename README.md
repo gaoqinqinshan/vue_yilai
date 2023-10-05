@@ -1,5 +1,7 @@
 # vue_yilai 这是在创建vue项目需要引入的element依赖
 
+## 可能会出现错误，这时就需要考虑node的版本了
+
 ## main.js里面引入
 ``` 
 import ElementUI from 'element-ui'
